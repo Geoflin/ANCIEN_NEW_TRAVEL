@@ -12,11 +12,11 @@
 <body>
 
     <nav>
-        <div><i class="material-icons">home</i><a href="index.html">accueil</a></div>
-        <div><i class="material-icons">info</i><a href="A propos.html">À propos</a></div>
-        <div><i class="material-icons">airplanemode_active</i><a href="Sejours.html">Séjours/destinations</a></div>
-        <div><i class="material-icons">phone_in_talk</i><a href="contact.html">Contact</a></div>
-        <div><i class="material-icons">account_circle</i><a href="espace.html">Mon espace</a></div>
+        <div><i class="material-icons">home</i><a href="index.php">accueil</a></div>
+        <div><i class="material-icons">info</i><a href="A propos.php">À propos</a></div>
+        <div><i class="material-icons">airplanemode_active</i><a href="Sejours.php">Séjours/destinations</a></div>
+        <div><i class="material-icons">phone_in_talk</i><a href="contact.php">Contact</a></div>
+        <div><i class="material-icons">account_circle</i><a href="espace.php">Mon espace</a></div>
       </nav>
 
     <header>
